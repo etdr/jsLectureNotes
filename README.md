@@ -4,3 +4,5 @@
 This is my repo for storing lecture notes for my JS class!
 
 *YAY*
+
+***DOUBLE YAY***
